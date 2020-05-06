@@ -22,3 +22,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#Gros fichier CSV
+Jupyter/datatourisme.place.20200506.csv
