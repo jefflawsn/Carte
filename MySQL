@@ -1,0 +1,9 @@
+ssh myuser@vps819094.ovh.net
+7Uf8--Sxxd
+mysql -u demouser -p
+!AAdem.pw
+
+$servername = "vps819094.ovh.net";
+$dBUsername ="webUser"
+$dBPassword = "!AAweb.pw"
+$dBName = "db_autogram"

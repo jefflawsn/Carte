@@ -57,3 +57,15 @@ POI enregistrable dans Favoris
 ## Favoris
 Liste visuel des POI  
 Lien vers Onglet POI  
+
+# Code developpers.amadeus
+API : WcldMsB2tLE920ukmAPwKRFDWz0LF5wc  
+Pass : H2Od7bLf6ALCEsun  
+Alternative MapQuests  
+https://geo.api.gouv.fr/adresse
+distance entre 2 point par latitude longitude (X1, Y1) - (X2, Y2)
+acos(sin(radians(X1))*sin(radians(X2))+cos(radians(X1))*cos(radians(X2))*cos(radians(Y1-Y2)))*6371
+
+# Installation
+npm install amadeus --save
+npm i node-fetch --save
