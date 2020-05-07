@@ -17,7 +17,7 @@ export class Tab1Page {
     this.map = new Map('mapId').setView([48.8534, 2.3488], 13);
 
     tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
-      attribution: 'edupala.com'
+      attribution: 'J.Lawson & T-T Tran-Thuong'
     }).addTo(this.map);
 
     const markPoint = marker([12.972442, 77.594563]);
