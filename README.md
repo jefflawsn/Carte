@@ -1,3 +1,21 @@
+# Utilisation du Git
+git clone https://github.com/jefflawsn/Carte.git  
+
+### Pour Pull
+git pull/git pull origin master  
+
+### Pour Push
+git add .  
+git commit -m "message"  
+git push/git push origin master  
+
+### Si problem en Push
+git fetch/git fetch origin master  
+git rebase/git rebase origin master  
+git add .  
+git commit -m "message"  
+git push/git push origin master  
+
 # Projet Carte déconfinement Jeff&4T
 Après le déconfinement nous aurions le droit de nous déplacer dans un rayon de 100km à vol d'oiseau !  
   
