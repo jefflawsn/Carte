@@ -32,3 +32,4 @@ npm-debug.log*
 
 # Le CSV énorme impossible à transférer avec gitHub
 /Jupyter/datatourisme.place.20200506.csv
+/MySQL

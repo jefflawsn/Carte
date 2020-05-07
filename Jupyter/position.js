@@ -1,3 +1,4 @@
+// Pense à npm i node-fetch --save
 const fetch = require("node-fetch");
 const readline = require('readline');
 
