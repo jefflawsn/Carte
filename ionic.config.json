@@ -1,7 +1,7 @@
 {
   "name": "Carte",
   "integrations": {
-    "capacitor": {}
+    "cordova": {}
   },
-  "type": "react"
+  "type": "angular"
 }
